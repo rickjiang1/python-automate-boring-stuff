@@ -1,2 +1,2 @@
 # python_code
-python_code_collections
+This repository is just the collection of my python code
