@@ -1,4 +1,5 @@
-# python_code
+# python automate boring stuff
+
 This repository is just the collection of my python code
 
 
